@@ -69,13 +69,11 @@ Resolving deltas: 100% (2/2), done.
 
 $ git add -A
 
-user@DESKTOP-14530KF MINGW64 ~/test2/df/test0626/k8s/test0626 (master)
 $ git commit -m 'ab'
 [master 9df8245] ab
  1 file changed, 23 insertions(+)
  create mode 100644 k8s/README.md
 
-user@DESKTOP-14530KF MINGW64 ~/test2/df/test0626/k8s/test0626 (master)
 $ git push
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
