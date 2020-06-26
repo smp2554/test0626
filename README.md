@@ -1,6 +1,7 @@
 # test0626
 
-$ winpty docker build --tag smp2554/test0626 .
+$ winpty docker build --tag smp2554/ubuntu9 .
+
 Sending build context to Docker daemon  449.5kB
 Step 1/4 : FROM ubuntu
  ---> 74435f89ab78
@@ -18,3 +19,5 @@ Successfully tagged smp2554/test0626:latest
 SECURITY WARNING: You are building a Docker image from Windows against a non-Windows Docker host. All
  files and directories added to build context will have '-rwxr-xr-x' permissions. It is recommended t
 o double check and reset permissions for sensitive files and directories.
+
+
